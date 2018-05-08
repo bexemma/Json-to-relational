@@ -10,3 +10,13 @@ This notebook is an example of how Watson Discovery Service queries can be loade
 any queries please contact becky.oconnor@uk.ibm.com
 
 
+Prerequsites:
+
+Access to a Watson Discovery Service
+
+Access to a db2 Environment
+
+You can provision Watson Discovery and db2warehouse on cloud from:
+
+https://www.ibm.com/cloud/ 
+
